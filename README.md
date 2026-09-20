@@ -11,11 +11,6 @@
 
 K. Rakesh
 
-## Abstract
-
-The Adaptive Quiz & Exam Engine is a Java-based project designed to provide a simple quiz and examination system. The system will allow users to answer questions, calculate their scores, and receive feedback based on their performance.
-
-The project will focus on implementing the Java programming concepts taught during the course and will be developed progressively as new concepts are learned.
 
 ## Current Phase
 
