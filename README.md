@@ -30,8 +30,9 @@ The project has not yet been implemented. We are currently in the planning stage
 
 ## Technologies
 
-- Java
+- Java(Basic)
 - GitHub
+- HTML
 
 ## Project Structure
 
